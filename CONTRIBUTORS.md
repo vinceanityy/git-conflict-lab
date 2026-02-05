@@ -1,3 +1,3 @@
 # Contributors for the project:
-* [Tiffany Lee]
+* Tiffany Lee
   
